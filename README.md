@@ -1,3 +1,5 @@
+<img width="1707" height="760" alt="view" src="https://github.com/user-attachments/assets/ca6d084d-7161-4a1b-97d3-9a676a62a3e8" />
+
 ## Geo Validator 🔷
 A component designed to validate building geometries and prepare models for reliable Ladybug environmental simulations.
 
